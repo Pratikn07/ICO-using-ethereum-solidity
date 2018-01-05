@@ -1,7 +1,7 @@
 {
-  "name": "Blockhain-Council-Development-Codes",
+  "name": "ICO-using-ethereum-solidity",
   "version": "0.0.1",
-  "description": "Blockhain-Council-Development-Codes",
+  "description": "ICO-using-ethereum-solidity",
   "main": "truffle.js",
   "repository": {
     "type": "git"
@@ -14,12 +14,9 @@
     "security",
     "zeppelin"
   ],
-  "author": "Toshendra sharma <me@toshendra.com>",
+  "author": "Pratik.R.Nandoskar>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/toshendra/ethereum-erc20-token/issues"
-  },
-  "homepage": "https://github.com/toshendra/ethereum-erc20-token",
+  
   "dependencies": {
     "truffle-hdwallet-provider": "0.0.3"
   },
