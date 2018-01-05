@@ -130,6 +130,7 @@ contract CrowdSale {
         LogFundingReceived(msg.sender, msg.value, totalRaised);
 
         
+        
 
         checkIfFundingCompleteOrExpired();
         return contributions.length - 1; 
